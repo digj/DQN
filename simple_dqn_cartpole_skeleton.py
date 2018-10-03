@@ -164,4 +164,3 @@ if __name__ == '__main__':
     print("Mean steps = ", sum(results) / len(results)) 
 
     print("\nFinished.")
-    print("\nCiao, and hasta la vista...\n")
